@@ -53,3 +53,8 @@ Celle-la est une fonction de statistique qui nous permet:
 Cette fonction permet d'éliminer les colonnes dont nous desirons exclure de notre analys.
 Elle prend également le paramètre **inplace** qui a pour **True** ou **False** qui pour rôle de supprimer directement sans créer de nouvelle variable.
 
+### La fonction dropna()
+
+<h4><code>df.dropna(axis=0)</code></h4>
+
+dropnan() permet de supprimer les valeurs manquant dans un dataset **dataframe**, le paramètre **axis** est obligatoire et il prend les valeurs **0** pour faire la suppression selon les lignes et **1** selon  les colonnes.
