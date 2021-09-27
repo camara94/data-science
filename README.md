@@ -84,4 +84,5 @@ Dans pandas, il existe deux structures de données:
 * DataFrame
 * Serie
 
-
+## Series
+Une **Serie** est une colonne dans un **DataFrame** dont est associé un index à chaque valeur donc une sorte de dictionnaire **clée-valeur**
