@@ -32,6 +32,7 @@ pour un fichier, il faut d'abord importer le package, puis on fait appelle aux d
 
 ### La fonction head()
 <h4><code>df.head()</code></h4>
+
 cette fonction permet d'afficher les cinq prémières lignes d'un **dataframe** par defaut, mais on peut à fait indiquer le nombre de ligne qu'on affcicher si l'on souhaite.
 
 ### La fonction describe()
@@ -46,7 +47,9 @@ Celle-la est une fonction de statistique qui nous permet:
 * etc
 
 ### La fonction drop
+
 <h4><code>df.drop([colonne1, colonne2, ...])</code></h4>
+
 Cette fonction permet d'éliminer les colonnes dont nous desirons exclure de notre analys.
 Elle prend également le paramètre **inplace** qui a pour **True** ou **False** qui pour rôle de supprimer directement sans créer de nouvelle variable.
 
