@@ -89,3 +89,9 @@ Une **Serie** est une colonne dans un **DataFrame** dont est associé un index �
 
 ## DataFramme
 Un **DataFrame** est un ensemble de **Series** donc un dataframe est un dictionnaire dont les clés sont les colonnes et les valeurs sont les **Series**
+
+## Les opérations sur les dataframes
+En pandas nous pouvous faire des **indexing** et du **boolean indexing** à travers **iloc** et **loc** 
+
+* iloc: pour dire **index location**
+* loc: pour dire **location**
