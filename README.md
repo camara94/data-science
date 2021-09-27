@@ -24,6 +24,6 @@ pour un fichier, il faut d'abord importer le package, puis on fait appelle aux d
 <h3><code>pd.read_html('urlFichier')</code></h3>
 * pour charger un sql:
 <h3><code>pd.read_sql()</code></h3>
-* ...
+* etc....
 * pour notre fichier **csv**
 <h3><code>df = pd.read_csv('titanic.csv')</code></h3>
