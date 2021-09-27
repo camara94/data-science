@@ -37,6 +37,7 @@ cette fonction permet d'afficher les cinq prémières lignes d'un **dataframe** 
 ### La fonction describe()
 <h4><code>df.describe()</code></h4>
 Celle-la est une fonction de statistique qui nous permet:
+
 * d'afficher le nombre de ligne
 * la moyenne des colonnes qui contiennent des valeurs discretes et continue
 * le quartile
