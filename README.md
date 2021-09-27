@@ -77,3 +77,11 @@ nous permet de générer les graphique sur un **dataframe**
 * df.plot.bar()
 * df.plot.hist()
 * etc
+
+## DataFrame et Series
+Dans pandas, il existe deux structures de données:
+
+* DataFrame
+* Serie
+
+
