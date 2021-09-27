@@ -58,3 +58,6 @@ Elle prend également le paramètre **inplace** qui a pour **True** ou **False**
 <h4><code>df.dropna(axis=0)</code></h4>
 
 dropnan() permet de supprimer les valeurs manquant dans un dataset **dataframe**, le paramètre **axis** est obligatoire et il prend les valeurs **0** pour faire la suppression selon les lignes et **1** selon  les colonnes.
+
+## La fonction value_counts()
+elle compte le nombre de répétition de chaque valeurs dans une colonne.
