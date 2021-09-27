@@ -69,3 +69,11 @@ il permet de renvoyer le nombre de ligne et le nombre de colonne d'un **datafram
 
 ## L'attribut columns
 cet attribut nous permet de lister toutes les colonnes d'un **dataframe**
+
+## L'attribut plot
+nous permet de générer les graphique sur un **dataframe**
+
+* df.plot.scatter()
+* df.plot.bar()
+* df.plot.hist()
+* etc
