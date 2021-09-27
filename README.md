@@ -34,3 +34,13 @@ pour un fichier, il faut d'abord importer le package, puis on fait appelle aux d
 <h4><code>df.head()</code></h4>
 cette fonction permet d'afficher les cinq prémières lignes d'un **dataframe** par defaut, mais on peut à fait indiquer le nombre de ligne qu'on affcicher si l'on souhaite.
 
+### La fonction describe()
+<h4><code>df.describe()</code></h4>
+Celle-la est une fonction de statistique qui nous permet:
+* d'afficher le nombre de ligne
+* la moyenne des colonnes qui contiennent des valeurs discretes et continue
+* le quartile
+* la median
+* la deviation
+* etc
+
