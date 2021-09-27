@@ -61,3 +61,6 @@ dropnan() permet de supprimer les valeurs manquant dans un dataset **dataframe**
 
 ## La fonction value_counts()
 elle compte le nombre de répétition de chaque valeurs dans une colonne.
+
+## La fonction groupby()
+Cette fonction, nous permet de faire des analyse par groupe 
