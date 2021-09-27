@@ -27,3 +27,8 @@ pour un fichier, il faut d'abord importer le package, puis on fait appelle aux d
 * etc....
 * pour notre fichier **csv**
 <h3><code>df = pd.read_csv('titanic.csv')</code></h3>
+## Quelques fonctions utiles
+### La fonction head()
+<h4><code>df.head()</code></h4>
+cette fonction permet d'afficher les cinq prémières lignes d'un **dataframe** par defaut, mais on peut à fait indiquer le nombre de ligne qu'on affcicher si l'on souhaite
+
