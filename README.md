@@ -45,3 +45,8 @@ Celle-la est une fonction de statistique qui nous permet:
 * la deviation
 * etc
 
+### La fonction drop
+<h4><code>df.drop([colonne1, colonne2, ...])</code></h4>
+Cette fonction permet d'éliminer les colonnes dont nous desirons exclure de notre analys.
+Elle prend également le paramètre **inplace** qui a pour **True** ou **False** qui pour rôle de supprimer directement sans créer de nouvelle variable.
+
