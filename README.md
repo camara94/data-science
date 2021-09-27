@@ -64,3 +64,5 @@ elle compte le nombre de répétition de chaque valeurs dans une colonne.
 
 ## La fonction groupby()
 Cette fonction, nous permet de faire des analyse par groupe 
+## L'attribut shape
+il permet de renvoyer le nombre de ligne et le nombre de colonne d'un **dataframe** sous forme d'un tuple
